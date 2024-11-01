@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://whygreedy.github.io/sitemap.xml
