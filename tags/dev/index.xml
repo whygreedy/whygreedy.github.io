@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dev on Hsin&#39;s Portfolio</title>
-    <link>https://whygreedy.github.io/tags/dev/</link>
+    <link>http://localhost:1313/tags/dev/</link>
     <description>Recent content in Dev on Hsin&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hy2228@nyu.edu (Hello, I&#39;m Hsin Yeh.)</managingEditor>
     <webMaster>hy2228@nyu.edu (Hello, I&#39;m Hsin Yeh.)</webMaster>
     <copyright>Copyright © Hsin Yeh 2024</copyright>
-    <atom:link href="https://whygreedy.github.io/tags/dev/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>App Store Review ETL Tool</title>
-      <link>https://whygreedy.github.io/projects/app-store-review-etl-tool/</link>
+      <link>http://localhost:1313/projects/app-store-review-etl-tool/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>hy2228@nyu.edu (Hello, I&#39;m Hsin Yeh.)</author>
-      <guid>https://whygreedy.github.io/projects/app-store-review-etl-tool/</guid>
+      <guid>http://localhost:1313/projects/app-store-review-etl-tool/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;📱 app-store-review-etl 
     &lt;div id=&#34;-app-store-review-etl&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -40,15 +40,15 @@
 
 &lt;a href=&#34;https://pypi.org/project/app-store-review-etl/&#34;&gt;&lt;img src=&#34;https://img.shields.io/pypi/v/app-store-review-etl&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;app-store-review-etl&lt;/em&gt; is a Python app to fetch app reviews, generate review analysis and provide report with a Google Sheet.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://whygreedy.github.io/projects/app-store-review-etl-tool/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/app-store-review-etl-tool/featured.png" />
     </item>
     
     <item>
       <title>YouTube Concatenation Tool</title>
-      <link>https://whygreedy.github.io/projects/yt-concate-py/</link>
+      <link>http://localhost:1313/projects/yt-concate-py/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>hy2228@nyu.edu (Hello, I&#39;m Hsin Yeh.)</author>
-      <guid>https://whygreedy.github.io/projects/yt-concate-py/</guid>
+      <guid>http://localhost:1313/projects/yt-concate-py/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;🎞 yt-concate-py 
     &lt;div id=&#34;-yt-concate-py&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -72,7 +72,7 @@
   &lt;/figure&gt;
 
 &lt;a href=&#34;https://pypi.org/project/yt-concate-py/&#34;&gt;&lt;img src=&#34;https://img.shields.io/pypi/v/yt-concate-py&#34; /&gt;&lt;/a&gt;&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://whygreedy.github.io/projects/yt-concate-py/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/yt-concate-py/featured.png" />
     </item>
     
   </channel>

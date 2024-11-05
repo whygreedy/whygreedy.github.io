@@ -3,42 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://whygreedy.github.io/projects/app-store-review-etl-tool/</loc>
+    <loc>http://localhost:1313/projects/app-store-review-etl-tool/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://whygreedy.github.io/projects/yt-concate-py/</loc>
+    <loc>http://localhost:1313/projects/yt-concate-py/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://whygreedy.github.io/projects/sql-job-analysis/</loc>
+    <loc>http://localhost:1313/projects/sql-job-analysis/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://whygreedy.github.io/projects/hadoop/</loc>
+    <loc>http://localhost:1313/projects/hadoop/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://whygreedy.github.io/projects/tableau-1/</loc>
+    <loc>http://localhost:1313/projects/tableau-1/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://whygreedy.github.io/projects/tableau-2/</loc>
+    <loc>http://localhost:1313/projects/tableau-2/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://whygreedy.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://whygreedy.github.io/projects/</loc>
+    <loc>http://localhost:1313/projects/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
