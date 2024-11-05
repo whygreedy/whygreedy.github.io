@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Data Analytics on Hsin&#39;s Portfolio</title>
-    <link>http://localhost:1313/tags/data-analytics/</link>
+    <link>https://hsinyeh.xyz/tags/data-analytics/</link>
     <description>Recent content in Data Analytics on Hsin&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hy2228@nyu.edu (Hello, I&#39;m Hsin Yeh.)</managingEditor>
     <webMaster>hy2228@nyu.edu (Hello, I&#39;m Hsin Yeh.)</webMaster>
     <copyright>Copyright © Hsin Yeh 2024</copyright>
-    <atom:link href="http://localhost:1313/tags/data-analytics/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://hsinyeh.xyz/tags/data-analytics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Data Analyst Jobs Analysis</title>
-      <link>http://localhost:1313/projects/sql-job-analysis/</link>
+      <link>https://hsinyeh.xyz/projects/sql-job-analysis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>hy2228@nyu.edu (Hello, I&#39;m Hsin Yeh.)</author>
-      <guid>http://localhost:1313/projects/sql-job-analysis/</guid>
+      <guid>https://hsinyeh.xyz/projects/sql-job-analysis/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;Introduction 
     &lt;div id=&#34;introduction&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -28,15 +28,15 @@
 &lt;/h1&gt;
 &lt;p&gt;Explore data from job market, and focusing on data analyst roles.&lt;/p&gt;
 &lt;p&gt;As a job seeker 👩‍💻 in the realm of data analysis, you may be curious about the skills that are in high demand 📈 and come with attractive salaries 💰.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/sql-job-analysis/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://hsinyeh.xyz/projects/sql-job-analysis/featured.png" />
     </item>
     
     <item>
       <title>Yelp&#39;s Reviews Analysis</title>
-      <link>http://localhost:1313/projects/hadoop/</link>
+      <link>https://hsinyeh.xyz/projects/hadoop/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>hy2228@nyu.edu (Hello, I&#39;m Hsin Yeh.)</author>
-      <guid>http://localhost:1313/projects/hadoop/</guid>
+      <guid>https://hsinyeh.xyz/projects/hadoop/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;📊 rbda-hadoop-hive-yelp 
     &lt;div id=&#34;-rbda-hadoop-hive-yelp&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -48,7 +48,7 @@
     
 &lt;/h1&gt;
 &lt;p&gt;This is the final project for 🎓 NYU Realtime and Big Data Analytics course.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/hadoop/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://hsinyeh.xyz/projects/hadoop/featured.png" />
     </item>
     
   </channel>

@@ -3,42 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/projects/app-store-review-etl-tool/</loc>
+    <loc>https://hsinyeh.xyz/projects/app-store-review-etl-tool/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/projects/yt-concate-py/</loc>
+    <loc>https://hsinyeh.xyz/projects/yt-concate-py/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/projects/sql-job-analysis/</loc>
+    <loc>https://hsinyeh.xyz/projects/sql-job-analysis/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/projects/hadoop/</loc>
+    <loc>https://hsinyeh.xyz/projects/hadoop/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/projects/tableau-1/</loc>
+    <loc>https://hsinyeh.xyz/projects/tableau-1/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/projects/tableau-2/</loc>
+    <loc>https://hsinyeh.xyz/projects/tableau-2/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://hsinyeh.xyz/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/projects/</loc>
+    <loc>https://hsinyeh.xyz/projects/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>

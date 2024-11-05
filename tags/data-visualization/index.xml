@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Data Visualization on Hsin&#39;s Portfolio</title>
-    <link>http://localhost:1313/tags/data-visualization/</link>
+    <link>https://hsinyeh.xyz/tags/data-visualization/</link>
     <description>Recent content in Data Visualization on Hsin&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hy2228@nyu.edu (Hello, I&#39;m Hsin Yeh.)</managingEditor>
     <webMaster>hy2228@nyu.edu (Hello, I&#39;m Hsin Yeh.)</webMaster>
     <copyright>Copyright © Hsin Yeh 2024</copyright>
-    <atom:link href="http://localhost:1313/tags/data-visualization/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://hsinyeh.xyz/tags/data-visualization/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Data Analyst Jobs Analysis</title>
-      <link>http://localhost:1313/projects/sql-job-analysis/</link>
+      <link>https://hsinyeh.xyz/projects/sql-job-analysis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>hy2228@nyu.edu (Hello, I&#39;m Hsin Yeh.)</author>
-      <guid>http://localhost:1313/projects/sql-job-analysis/</guid>
+      <guid>https://hsinyeh.xyz/projects/sql-job-analysis/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;Introduction 
     &lt;div id=&#34;introduction&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -28,15 +28,15 @@
 &lt;/h1&gt;
 &lt;p&gt;Explore data from job market, and focusing on data analyst roles.&lt;/p&gt;
 &lt;p&gt;As a job seeker 👩‍💻 in the realm of data analysis, you may be curious about the skills that are in high demand 📈 and come with attractive salaries 💰.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/sql-job-analysis/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://hsinyeh.xyz/projects/sql-job-analysis/featured.png" />
     </item>
     
     <item>
       <title>Yelp&#39;s Reviews Analysis</title>
-      <link>http://localhost:1313/projects/hadoop/</link>
+      <link>https://hsinyeh.xyz/projects/hadoop/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>hy2228@nyu.edu (Hello, I&#39;m Hsin Yeh.)</author>
-      <guid>http://localhost:1313/projects/hadoop/</guid>
+      <guid>https://hsinyeh.xyz/projects/hadoop/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;📊 rbda-hadoop-hive-yelp 
     &lt;div id=&#34;-rbda-hadoop-hive-yelp&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -48,15 +48,15 @@
     
 &lt;/h1&gt;
 &lt;p&gt;This is the final project for 🎓 NYU Realtime and Big Data Analytics course.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/hadoop/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://hsinyeh.xyz/projects/hadoop/featured.png" />
     </item>
     
     <item>
       <title>Riders Usage Analysis</title>
-      <link>http://localhost:1313/projects/tableau-1/</link>
+      <link>https://hsinyeh.xyz/projects/tableau-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>hy2228@nyu.edu (Hello, I&#39;m Hsin Yeh.)</author>
-      <guid>http://localhost:1313/projects/tableau-1/</guid>
+      <guid>https://hsinyeh.xyz/projects/tableau-1/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;📊 divvy-riders-usage-analysis 
     &lt;div id=&#34;-divvy-riders-usage-analysis&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -68,15 +68,15 @@
     
 &lt;/h1&gt;
 &lt;div class=&#39;tableauPlaceholder&#39; id=&#39;viz1730228973640&#39; style=&#39;position: relative&#39;&gt;&lt;noscript&gt;&lt;a href=&#39;#&#39;&gt;&lt;img alt=&#39;Dashboard 1 &#39; src=&#39;https:&amp;#47;&amp;#47;public.tableau.com&amp;#47;static&amp;#47;images&amp;#47;YE&amp;#47;YEH_HSIN_DivvyRidersUsageAnalysis2021SEP&amp;#47;Dashboard1&amp;#47;1_rss.png&#39; style=&#39;border: none&#39; /&gt;&lt;/a&gt;&lt;/noscript&gt;&lt;object class=&#39;tableauViz&#39;  style=&#39;display:none;&#39;&gt;&lt;param name=&#39;host_url&#39; value=&#39;https%3A%2F%2Fpublic.tableau.com%2F&#39; /&gt; &lt;param name=&#39;embed_code_version&#39; value=&#39;3&#39; /&gt; &lt;param name=&#39;site_root&#39; value=&#39;&#39; /&gt;&lt;param name=&#39;name&#39; value=&#39;YEH_HSIN_DivvyRidersUsageAnalysis2021SEP&amp;#47;Dashboard1&#39; /&gt;&lt;param name=&#39;tabs&#39; value=&#39;no&#39; /&gt;&lt;param name=&#39;toolbar&#39; value=&#39;yes&#39; /&gt;&lt;param name=&#39;static_image&#39; value=&#39;https:&amp;#47;&amp;#47;public.tableau.com&amp;#47;static&amp;#47;images&amp;#47;YE&amp;#47;YEH_HSIN_DivvyRidersUsageAnalysis2021SEP&amp;#47;Dashboard1&amp;#47;1.png&#39; /&gt; &lt;param name=&#39;animate_transition&#39; value=&#39;yes&#39; /&gt;&lt;param name=&#39;display_static_image&#39; value=&#39;yes&#39; /&gt;&lt;param name=&#39;display_spinner&#39; value=&#39;yes&#39; /&gt;&lt;param name=&#39;display_overlay&#39; value=&#39;yes&#39; /&gt;&lt;param name=&#39;display_count&#39; value=&#39;yes&#39; /&gt;&lt;param name=&#39;language&#39; value=&#39;en-US&#39; /&gt;&lt;/object&gt;&lt;/div&gt;                &lt;script type=&#39;text/javascript&#39;&gt;                    var divElement = document.getElementById(&#39;viz1730228973640&#39;);                    var vizElement = divElement.getElementsByTagName(&#39;object&#39;)[0];                    if ( divElement.offsetWidth &gt; 800 ) { vizElement.style.width=&#39;1000px&#39;;vizElement.style.height=&#39;827px&#39;;} else if ( divElement.offsetWidth &gt; 500 ) { vizElement.style.width=&#39;1000px&#39;;vizElement.style.height=&#39;827px&#39;;} else { vizElement.style.width=&#39;100%&#39;;vizElement.style.height=&#39;1527px&#39;;}                     var scriptElement = document.createElement(&#39;script&#39;);                    scriptElement.src = &#39;https://public.tableau.com/javascripts/api/viz_v1.js&#39;;                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                &lt;/script&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/tableau-1/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://hsinyeh.xyz/projects/tableau-1/featured.png" />
     </item>
     
     <item>
       <title>Tech Funding Analysis</title>
-      <link>http://localhost:1313/projects/tableau-2/</link>
+      <link>https://hsinyeh.xyz/projects/tableau-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>hy2228@nyu.edu (Hello, I&#39;m Hsin Yeh.)</author>
-      <guid>http://localhost:1313/projects/tableau-2/</guid>
+      <guid>https://hsinyeh.xyz/projects/tableau-2/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;📊 tech-funding-analysis 
     &lt;div id=&#34;-tech-funding-analysis&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -88,7 +88,7 @@
     
 &lt;/h1&gt;
 &lt;div class=&#39;tableauPlaceholder&#39; id=&#39;viz1730229010851&#39; style=&#39;position: relative&#39;&gt;&lt;noscript&gt;&lt;a href=&#39;#&#39;&gt;&lt;img alt=&#39;Dashboard 4 &#39; src=&#39;https:&amp;#47;&amp;#47;public.tableau.com&amp;#47;static&amp;#47;images&amp;#47;Dr&amp;#47;DraftDataGraphic_TechFundingTreeMapDrillDown&amp;#47;Dashboard4&amp;#47;1_rss.png&#39; style=&#39;border: none&#39; /&gt;&lt;/a&gt;&lt;/noscript&gt;&lt;object class=&#39;tableauViz&#39;  style=&#39;display:none;&#39;&gt;&lt;param name=&#39;host_url&#39; value=&#39;https%3A%2F%2Fpublic.tableau.com%2F&#39; /&gt; &lt;param name=&#39;embed_code_version&#39; value=&#39;3&#39; /&gt; &lt;param name=&#39;site_root&#39; value=&#39;&#39; /&gt;&lt;param name=&#39;name&#39; value=&#39;DraftDataGraphic_TechFundingTreeMapDrillDown&amp;#47;Dashboard4&#39; /&gt;&lt;param name=&#39;tabs&#39; value=&#39;no&#39; /&gt;&lt;param name=&#39;toolbar&#39; value=&#39;yes&#39; /&gt;&lt;param name=&#39;static_image&#39; value=&#39;https:&amp;#47;&amp;#47;public.tableau.com&amp;#47;static&amp;#47;images&amp;#47;Dr&amp;#47;DraftDataGraphic_TechFundingTreeMapDrillDown&amp;#47;Dashboard4&amp;#47;1.png&#39; /&gt; &lt;param name=&#39;animate_transition&#39; value=&#39;yes&#39; /&gt;&lt;param name=&#39;display_static_image&#39; value=&#39;yes&#39; /&gt;&lt;param name=&#39;display_spinner&#39; value=&#39;yes&#39; /&gt;&lt;param name=&#39;display_overlay&#39; value=&#39;yes&#39; /&gt;&lt;param name=&#39;display_count&#39; value=&#39;yes&#39; /&gt;&lt;param name=&#39;language&#39; value=&#39;en-US&#39; /&gt;&lt;/object&gt;&lt;/div&gt;                &lt;script type=&#39;text/javascript&#39;&gt;                    var divElement = document.getElementById(&#39;viz1730229010851&#39;);                    var vizElement = divElement.getElementsByTagName(&#39;object&#39;)[0];                    if ( divElement.offsetWidth &gt; 800 ) { vizElement.style.width=&#39;1000px&#39;;vizElement.style.height=&#39;827px&#39;;} else if ( divElement.offsetWidth &gt; 500 ) { vizElement.style.width=&#39;1000px&#39;;vizElement.style.height=&#39;827px&#39;;} else { vizElement.style.width=&#39;300%&#39;;vizElement.style.height=&#39;827px&#39;;}                     var scriptElement = document.createElement(&#39;script&#39;);                    scriptElement.src = &#39;https://public.tableau.com/javascripts/api/viz_v1.js&#39;;                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                &lt;/script&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/tableau-2/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://hsinyeh.xyz/projects/tableau-2/featured.png" />
     </item>
     
   </channel>
