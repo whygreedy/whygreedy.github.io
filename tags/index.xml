@@ -6,15 +6,15 @@
     <description>Recent content in Tags on Hsin&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>hy2228@nyu.edu (Hello, I&#39;m Hsin Yeh.)</managingEditor>
-    <webMaster>hy2228@nyu.edu (Hello, I&#39;m Hsin Yeh.)</webMaster>
+    <managingEditor>hy2228@nyu.edu (👋🏻 Hello, I&#39;m Hsin Yeh.)</managingEditor>
+    <webMaster>hy2228@nyu.edu (👋🏻 Hello, I&#39;m Hsin Yeh.)</webMaster>
     <copyright>Copyright © Hsin Yeh 2024</copyright>
     <atom:link href="https://hsinyeh.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Data Analytics</title>
       <link>https://hsinyeh.xyz/tags/data-analytics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>hy2228@nyu.edu (Hello, I&#39;m Hsin Yeh.)</author>
+      <author>hy2228@nyu.edu (👋🏻 Hello, I&#39;m Hsin Yeh.)</author>
       <guid>https://hsinyeh.xyz/tags/data-analytics/</guid>
       <description></description>
       
@@ -24,7 +24,7 @@
       <title>Data Engineer</title>
       <link>https://hsinyeh.xyz/tags/data-engineer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>hy2228@nyu.edu (Hello, I&#39;m Hsin Yeh.)</author>
+      <author>hy2228@nyu.edu (👋🏻 Hello, I&#39;m Hsin Yeh.)</author>
       <guid>https://hsinyeh.xyz/tags/data-engineer/</guid>
       <description></description>
       
@@ -34,7 +34,7 @@
       <title>Data Visualization</title>
       <link>https://hsinyeh.xyz/tags/data-visualization/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>hy2228@nyu.edu (Hello, I&#39;m Hsin Yeh.)</author>
+      <author>hy2228@nyu.edu (👋🏻 Hello, I&#39;m Hsin Yeh.)</author>
       <guid>https://hsinyeh.xyz/tags/data-visualization/</guid>
       <description></description>
       
@@ -44,8 +44,18 @@
       <title>Dev</title>
       <link>https://hsinyeh.xyz/tags/dev/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>hy2228@nyu.edu (Hello, I&#39;m Hsin Yeh.)</author>
+      <author>hy2228@nyu.edu (👋🏻 Hello, I&#39;m Hsin Yeh.)</author>
       <guid>https://hsinyeh.xyz/tags/dev/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Product</title>
+      <link>https://hsinyeh.xyz/tags/product/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>hy2228@nyu.edu (👋🏻 Hello, I&#39;m Hsin Yeh.)</author>
+      <guid>https://hsinyeh.xyz/tags/product/</guid>
       <description></description>
       
     </item>
