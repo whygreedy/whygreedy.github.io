@@ -19,12 +19,6 @@
       <description>&lt;h2 class=&#34;relative group&#34;&gt;Overview 
     &lt;div id=&#34;overview&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
-    &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#overview&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;        
-    
 &lt;/h2&gt;
 &lt;p&gt;Taipei Digital Group is the leading digital marketing agency in Taiwan that provides digital marketing solutions to grow business with 2000+ clients by Web Design, SEO, Google Business Photo, Media Buy and Integrated Marketing services.&lt;/p&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://hsinyeh.xyz/projects/tda/featured.png" />
@@ -36,16 +30,10 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>hy2228@nyu.edu (👋🏻 Hello, I&#39;m Hsin Yeh.)</author>
       <guid>https://hsinyeh.xyz/projects/sql-job-analysis/</guid>
-      <description>&lt;h1 class=&#34;relative group&#34;&gt;Introduction 
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;Introduction 
     &lt;div id=&#34;introduction&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
-    &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#introduction&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;        
-    
-&lt;/h1&gt;
+&lt;/h2&gt;
 &lt;p&gt;Explore data from job market, and focusing on data analyst roles.&lt;/p&gt;
 &lt;p&gt;As a job seeker 👩‍💻 in the realm of data analysis, you may be curious about the skills that are in high demand 📈 and come with attractive salaries 💰.&lt;/p&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://hsinyeh.xyz/projects/sql-job-analysis/featured.png" />
@@ -60,14 +48,16 @@
       <description>&lt;h1 class=&#34;relative group&#34;&gt;📊 rbda-hadoop-hive-yelp 
     &lt;div id=&#34;-rbda-hadoop-hive-yelp&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
-    &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#-rbda-hadoop-hive-yelp&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;        
-    
 &lt;/h1&gt;
-&lt;p&gt;This is the final project for 🎓 NYU Realtime and Big Data Analytics course.&lt;/p&gt;</description>
+&lt;p&gt;This is the final project for 🎓 NYU Realtime and Big Data Analytics course.&lt;/p&gt;
+&lt;p&gt;Check out details in &lt;a href=&#34;https://github.com/whygreedy/rbda-hadoop-hive-yelp/blob/a86af29190b54a27cbd6e92c493c5d3f307cca79/RBDA%20Final%20Report.pdf&#34; target=&#34;_blank&#34;&gt;Report&lt;/a&gt;&lt;/p&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;Description 
+    &lt;div id=&#34;description&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+&lt;/h2&gt;
+&lt;p&gt;In this project, we analyzed the restaurant rating and review datasets on Yelp to provide insights into the success patterns of popular restaurants in the US. We utilized Hadoop for data cleaning and Hive for analyzing Yelp reviews of successful US restaurants. By integrating this with US demographic data, we can gain a comprehensive understanding of the factors that contribute to a restaurant&amp;rsquo;s success.&lt;/p&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://hsinyeh.xyz/projects/hadoop/featured.png" />
     </item>
     
